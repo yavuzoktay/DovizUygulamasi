@@ -16,14 +16,14 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/girilenDeger"
-            android:hint="bir deger giriniz"
+            android:hint="Bir deger giriniz"
             android:inputType="number"
             android:layout_weight="1"/>
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="TRY"
+            android:text="@string/TRY"
             android:layout_weight="1"
             android:gravity="center"/>
 
@@ -50,7 +50,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Dolar"
+            android:text="@string/Dolar"
             android:layout_weight="1"
             android:gravity="center"
             android:layout_gravity="center"/>
@@ -81,7 +81,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Euro"
+            android:text="@string/Euro"
             android:layout_weight="1"
             android:gravity="center"
             android:layout_gravity="center"/>
@@ -112,7 +112,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="Sterlin"
+            android:text="@string/Sterlin"
             android:gravity="center"
             android:layout_gravity="center"/>
 

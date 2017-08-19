@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Doviz</string>
+    <string name="TRY">TRY</string>
+    <string name="Dolar">Dolar</string>
+    <string name="Euro">Euro</string>
+    <string name="Sterlin">Sterlin</string>
 </resources>
